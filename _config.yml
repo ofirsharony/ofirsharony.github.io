@@ -32,9 +32,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Ofir Sharony
+  url: https://linktr.ee/ofirsharony
+  email: ofirsharony@gmail.com
 
 # Custom vars
 version: 3.0.0
