@@ -3,27 +3,24 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+This blog is inspired by Jeff Triplett's [publish and share more](https://micro.webology.dev/2024/11/02/please-publish-and.html?utm_source=pocket_shared).
+Here are a few (adjusted) quotes I loved from his post, which lead me to this point:
 
-There are currently two themes built on Poole:
+> "You don’t have to change the world with every post. You might publish a quick thought or two that helps encourage someone else to learn or try something new"
 
-- [Hyde](https://hyde.getpoole.com)
-- [Lanyon](https://lanyon.getpoole.com)
+> "posts are done when you say they are. They're done when you stop writing, which doesn't require the perfect insight or conclusion"
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-- Built for [Jekyll](https://jekyllrb.com)
-- Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-- Coded with [Atom](https://atom.io), an amazing open source code editor
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+I've been thinking about this for years, and never got over the hump.
+I was always writing sporadically, and some of my posts reached audiences I never expected, opening doors to new opportunities.
+But a blog for small thoughts and insights? that's something I never had. Let's see if it sticks.
 
 Thanks for reading!
+
+## About Me
+
+I'm working as a BE Platform Lead at [MyHeritage](myheritage.com); 
+I'm an Apache Kafka Community Catalyst, leading the largest Kafka community in the world (over 2300 members).
+I often speak at conferences and meetups about Platform Engineering and Engineering Leadership.
+
+You can learn more about me and find the things I'm proud of at https://linktr.ee/ofirsharony
