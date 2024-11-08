@@ -6,7 +6,7 @@ title: Why do I need a blog?
 
 This blog is inspired by Jeff Triplett's [Please publish and share more](https://micro.webology.dev/2024/11/02/please-publish-and.html?utm_source=pocket_shared).
 
-Here are a few (adjusted) quotes I embraced, which lead me to this point:
+Here are a few (adjusted) quotes I embraced, which led me to this point:
 
 > You don’t have to change the world with every post. You might publish a quick thought or two that helps encourage someone else to learn or try something new
 
