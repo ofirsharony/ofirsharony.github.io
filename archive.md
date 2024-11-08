@@ -1,5 +1,5 @@
 ---
-title: "Archive"
+title: ""
 show_hidden: false
 ---
 

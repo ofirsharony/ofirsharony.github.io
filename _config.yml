@@ -4,6 +4,7 @@ url: https://ofirsharony.github.io/
 paginate: 1
 baseurl: ""
 permalink: pretty
+incremental: false
 
 # Gems
 plugins:
