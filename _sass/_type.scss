@@ -66,9 +66,11 @@ abbr {
 }
 
 blockquote {
+  font-size: 0.75em;
+  font-style: italic;
   padding: .5rem 1rem;
   margin: .8rem 0;
-  color: var(--gray-500);
+  color: var(--gray-400);
   border-left: .25rem solid var(--border-color);
 
   p:last-child {
