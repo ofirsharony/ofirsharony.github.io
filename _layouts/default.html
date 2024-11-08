@@ -1,4 +1,14 @@
 <!DOCTYPE html>
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const urlParams = new URLSearchParams(window.location.search);
+    if (urlParams.has('show_hidden')) {
+      document.querySelectorAll('.hidden-post').forEach(post => {
+        post.style.display = 'block';
+      });
+    }
+  });
+</script>
 <html lang="en" data-theme="dark-poole">
   {% include head.html %}
 
