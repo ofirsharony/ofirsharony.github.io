@@ -1,6 +1,5 @@
 ---
 title: "Archive"
-permalink: "/archive.html"
 show_hidden: false
 ---
 
