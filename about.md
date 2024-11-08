@@ -1,6 +1,6 @@
 ---
 layout: page
-#title: About
+title: Why do I need a blog?
 ---
 
 
@@ -13,10 +13,9 @@ Here are a few (adjusted) quotes I embraced, which lead me to this point:
 > _Posts are done when you say they are. They're done when you stop writing, which doesn't require the perfect insight or conclusion_
 
 I've been thinking about this for years, and never got over the hump.
-I was always writing sporadically, and some of my posts reached audiences I never expected, opening doors to new opportunities.
+I was always writing sporadically, and some of my posts reached audiences I never imagined, opening doors to new opportunities.
 But a blog for small thoughts and insights? that's something I never had. Let's see if it sticks.
 
-Thanks for reading!
 
 ## About Me
 
@@ -25,3 +24,4 @@ I'm an Apache Kafka Community Catalyst, leading the largest Kafka community in t
 I often speak at conferences and meetups about Platform Engineering and Engineering Leadership.
 
 You can learn more about me and find the things I'm proud of [here](https://linktr.ee/ofirsharony).
+Thanks for reading!
