@@ -20,8 +20,9 @@ But a blog for small thoughts and insights? that's something I never had. Let's 
 ## About Me
 
 I'm working as a BE Platform Lead at [MyHeritage](https://www.myheritage.com); 
-I'm an Apache Kafka Community Catalyst, leading the largest Kafka community in the world (over 2300 members).
+An Apache Kafka Community Catalyst, leading the largest Kafka community in the world (over 2300 members).
 I often speak at conferences and meetups about Platform Engineering and Engineering Leadership.
 
-You can learn more about me and find the things I'm proud of [here](https://linktr.ee/ofirsharony).
+Learn more about me and find the things I'm proud of [here](https://linktr.ee/ofirsharony).
+
 Thanks for reading!
