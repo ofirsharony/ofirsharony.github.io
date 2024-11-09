@@ -13,7 +13,7 @@ Here are a few (adjusted) quotes I embraced, which led me to this point:
 > Posts are done when you say they are. They're done when you stop writing, which doesn't require the perfect insight or conclusion
 
 I've been thinking about this for years, and never got over the hump.
-I was always writing sporadically, and some of my posts reached audiences I never imagined, opening doors to new opportunities.
+I was always writing sporadically, and some of my [previous posts](https://medium.com/@ofirsharony) reached audiences I never imagined, opening doors to new opportunities.
 But a blog for small thoughts and insights? that's something I never had. Let's see if it sticks.
 
 
