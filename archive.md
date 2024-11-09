@@ -3,7 +3,7 @@ title: ""
 show_hidden: false
 ---
 
-<div> <h2> <a href="https://ofirsharony.github.io/about/"> Why Do I have a website?</a> </h2> </div>
+<div> <h3> <a href="https://ofirsharony.github.io/about/"> Why Do I need a website?</a> </h3> </div>
 
 {% assign show_hidden = page.show_hidden %}
 
