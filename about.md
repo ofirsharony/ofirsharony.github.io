@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Why do I need a blog?
+title: Why do I need a website?
 ---
+
 
 
 This blog is inspired by Jeff Triplett's [Please publish and share more](https://micro.webology.dev/2024/11/02/please-publish-and.html?utm_source=pocket_shared).

@@ -3,6 +3,8 @@ title: ""
 show_hidden: false
 ---
 
+<div> <h2> <a href="https://ofirsharony.github.io/about/"> Why Do I have a website?</a> </h2> </div>
+
 {% assign show_hidden = page.show_hidden %}
 
 {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
