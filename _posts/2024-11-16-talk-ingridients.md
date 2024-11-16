@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Recipe for a Successful Talk: My Go-To Ingredients"
+title: "Recipe for a Great Talk: My Go-To Ingredients"
 ---
 
 Delivering a standout talk isn’t a matter of luck, and I don't even see it as a natural talent you’re born with — it’s a blend of preparation, experience, and deliberate focus. Here are my go-to ingredients for a successful talk:
