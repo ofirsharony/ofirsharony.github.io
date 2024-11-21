@@ -23,6 +23,8 @@ show_hidden: false
 <div>
   <h2>My Notable External Writing</h2>
   <ul>
+    <li><a href="https://medium.com/@ofirsharony" target="_blank">
+My Medium.com profile</a></li>
     <li><a href="https://leaddev.com/career-development/leaders-journal-become-inspiring-leader-ten-minutes-day" target="_blank">
 [Published at LeadDev.com] The leader’s journal: Become an inspiring leader in ten minutes a day</a></li>
     <li><a href="https://www.infoq.com/articles/in-app-subscriptions-made-easy/" target="_blank">
