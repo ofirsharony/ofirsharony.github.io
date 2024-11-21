@@ -31,5 +31,7 @@ show_hidden: false
 From Kafka to BigQuery: A Guide for Streaming Billions of Daily Events</a></li>
     <li><a href="https://medium.com/myheritage-engineering/achieving-real-time-analytics-via-change-data-capture-d69ed2ead889" target="_blank">
 Achieving Real-time Analytics via Change Data Capture</a></li>
+    <li><a href="https://managerreadme.com/readme/ofir" target="_blank">
+My Manager Readme</a></li>
   </ul>
 </div>
