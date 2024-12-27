@@ -21,7 +21,7 @@ show_hidden: false
 
 
 <div>
-  <h2>My Notable External Writing</h2>
+  <h2>My Notable Writings</h2>
   <ul>
     <li><a href="https://medium.com/@ofirsharony" target="_blank">
 My Medium.com profile</a></li>
