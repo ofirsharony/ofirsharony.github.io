@@ -5,11 +5,14 @@ title: "Leadership Podcast - become a better leader in five minutes a day"
 ![podcast2](../assets/popcorn-podcast/with-Lior.jpg)
 
 This week I had the honor of participating in the Popcorn Podcast, where Lior Frenkel and myself took on the challenge of creating a practical recipe for leadership, no matter what your role is.
-In five minutes a day (that is - FIVE) you can dramatically boost your influence within your team, and across your organization.
+
+In five minutes a day (that is - FIVE) you can dramatically boost your influence within your team, group, and organization.
 The podcast is wrapped with some of the best stories happened in my life, stories I've never told before.
 
 
-I'm sure you'll find it useful and practical to your own life and career. Money back guarenteed :)
+I'm sure you'll find it useful and practical to your own life and career. 
+
+Money back guarenteed :)
 
 [Podcast page](https://frnkl.co/blog-podcast/%D7%A4%D7%95%D7%A4%D7%A7%D7%95%D7%A8%D7%9F-376-%D7%90%D7%95%D7%A4%D7%99%D7%A8-%D7%A9%D7%A8%D7%95%D7%A0%D7%99/)
 
