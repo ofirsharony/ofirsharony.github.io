@@ -19,6 +19,8 @@ I'm sure you'll find it useful and practical to your own life and career. Money 
 
 Would love to know what you thought. Enjoy.
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/3PyPxDorxBh9DFxuQJ0mo6?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ![podcast](../assets/popcorn-podcast/podcast-image.jpeg)
 
 ---
