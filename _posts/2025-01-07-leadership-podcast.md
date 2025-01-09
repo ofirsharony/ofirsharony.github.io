@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Leadership Podcast - become a better leader in five minutes a day"
+image: /assets/popcorn-podcast/with-Lior.jpg
 ---
 ![podcast2](/assets/popcorn-podcast/with-Lior.jpg)
 
