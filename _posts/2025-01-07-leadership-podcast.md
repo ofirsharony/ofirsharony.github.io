@@ -2,7 +2,7 @@
 layout: post
 title: "Leadership Podcast - become a better leader in five minutes a day"
 ---
-![podcast2](../assets/popcorn-podcast/with-Lior.jpg)
+![podcast2](/assets/popcorn-podcast/with-Lior.jpg)
 
 This week I had the honor of participating in the Popcorn Podcast, where Lior Frenkel and myself took on the challenge of creating a practical recipe for leadership, no matter what your role is.
 
