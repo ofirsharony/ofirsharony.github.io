@@ -18,7 +18,7 @@ layout: default
 <aside class="related">
   <h3>Related posts</h3>
   <ul class="related-posts">
-    {% assign visible_posts = site.related_posts | where: "hidden", false %}
+    {% assign visible_posts = site.related_posts | where_exp: "item", "item.hidden != true" %}
     {% for post in visible_posts limit:3 %}
     <li>
       <a href="{{ site.baseurl }}{{ post.url }}">
